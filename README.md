@@ -43,7 +43,7 @@ Gemini Clone is a web application developed using **React** that replicates key 
     npm start
     ```
 
-The application will run on `http://localhost:3000`.
+The application will run on `http://localhost:5173`.
 
 ## Usage
 
