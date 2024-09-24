@@ -1,5 +1,8 @@
 # Gemini Clone
+# Project Demo
+https://github.com/user-attachments/assets/3d34b25c-8698-4e91-94d3-3550eeb79882
 
+# overview
 Gemini Clone is a web application developed using **React** that replicates key functionalities of the Gemini AI platform. It integrates with the **Gemini API** to provide AI-powered insights and responses, enabling users to interact with the AI through a sleek, responsive interface.
 
 ## Features
